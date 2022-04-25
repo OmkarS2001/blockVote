@@ -60,7 +60,7 @@ const TimeLeft = (props) => {
 
   return (
     <div className='timeZone'>
-      <button type="button" className="button-no-btstrp" disabled={timerMinutes === "0"} onClick={redirectResults} >
+      <button type="button" className="button-no-btstrp" disabled={timerMinutes !== "00"} onClick={redirectResults} >
         <section className='timer-container'>
           <section className='timer'>
             <div>
