@@ -2,7 +2,7 @@
 This decentralised application is created as a part of a college project. It is sample implementation of the BlockChain technology on the traditional voting system.
 * This application will help, carry out election process tamper-proof 🔐.
 * All the related data/records are maintained on blockchain ledger 📒 (once wrote cannot be erased).
-# Objective :
+# Objectives :
 1. Is to create a secure network for safe VOTE casting, to avoid temparing issues.
 2. And to create a decentralized network.
 
@@ -20,7 +20,6 @@ This decentralised application is created as a part of a college project. It is 
 ![image](https://user-images.githubusercontent.com/80884270/165153473-d80c6324-39fd-4473-83a7-700c3e6533fe.png)
 
 # Demo :
-
 
 https://user-images.githubusercontent.com/80884270/165165672-17834b93-4d3d-4af0-9ea9-6619d739c20c.mp4
 
