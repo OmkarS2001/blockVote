@@ -1,6 +1,7 @@
 # blockVoteSP
-This webApp is created as a part of a college mini-project. It is a miniature of the next big thing to come as a BlockChain application. It is sample implementation of the BlockChain technology on the traditional voting system.
-
+This decentralised application is created as a part of a college project. It is sample implementation of the BlockChain technology on the traditional voting system.
+* This application will help, carry out election process tamper-proof 🔐.
+* All the related data/records are maintained on blockchain ledger 📒 (once wrote cannot be erased).
 # Objective :
 1. Is to create a secure network for safe VOTE casting, to avoid temparing issues.
 2. And to create a decentralized network.
