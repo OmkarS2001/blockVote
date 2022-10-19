@@ -13,7 +13,7 @@ const TimeLeft = (props) => {
   let navigate = useNavigate();
 
   /* calculate the difference(or the interval) between current time 
-  and the end time(as per set in the contract) in minutes and seconds  */
+  and end time(as per set in the contract) in minutes and seconds  */
   const interval = useRef();
 
   // Timer function to show the count down. 
