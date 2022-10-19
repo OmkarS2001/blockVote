@@ -24,7 +24,7 @@ contract Election {
     }
     uint256 public votersCount;
     mapping(address => Voter) public voters;
-
+// constructor call
     constructor() public {
         admin = msg.sender;
         startTime = block.timestamp;
