@@ -19,7 +19,5 @@ This decentralised application is created as a part of a college project. It is 
 5. Results :
 ![image](https://user-images.githubusercontent.com/80884270/165153473-d80c6324-39fd-4473-83a7-700c3e6533fe.png)
 
-# Demo :
 
-https://user-images.githubusercontent.com/80884270/165165672-17834b93-4d3d-4af0-9ea9-6619d739c20c.mp4
 
